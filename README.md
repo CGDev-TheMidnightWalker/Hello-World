@@ -12,7 +12,7 @@ Hello! I'm a Software Engineer with almost 8 years of experience in different IT
 * 🚀  I'm currently working on [Solera](http://www.solera.com/)
 * 🧠  I'm learning React and Angular
 * 🤝  I'm open to collaborating on Backend, Gaming, AI or Open Sourcing projects
-* ⚡  I love nature! If you like camping, trekking, photography or if you feel like chatting about movies, philosophy or technology, let's get in touch!
+* ⚡  If you like camping, trekking, photography or if you feel like chatting about movies, philosophy or technology, let's get in touch!
 
 ### Skills
 
