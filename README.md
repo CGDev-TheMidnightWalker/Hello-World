@@ -6,8 +6,9 @@ Software Engineer
 
 I'm a Mexican Software Engineer with almost 8 years of experience in different IT Areas. I have 4 years of experience on IT Support and Service Desk Management. I (finally!) moved to Software Development in 2018 and it is what moves me today. Most of my experience is with: NET C#, MSSQL, HTML, ASP.NET. Experience with MVC and MVVM using Knockout JS. I have actively participated in projects for Britsh Airways, Travelport and CityExpress; where I performed as Fullstack Dev mainly, but also as Tech Lead JR and Product Manager JR.
 
-* 🌍  I'm based in Mexico City, can speak both Spanish and  English.
-* 🖥️  See my portfolio at [my web](http://charliegomez.dev/)
+* 🌍  I'm based in Mexico City
+* 👄  I can speak both Spanish and English fluently. 
+* 🖥️  See my portfolio at [my web](http://charliegomez.dev/)
 * ✉️  You can contact me at [ca.gomez1393@gmail.com](mailto:ca.gomez1393@gmail.com)
 * 🚀  I'm currently working on [Solera](http://www.solera.com/)
 * 🧠  I'm learning React and Angular
