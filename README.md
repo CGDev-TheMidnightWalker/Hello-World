@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos Gomez
 ====================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
-Hello! I'm a Software Engineer with almost 10 years of experience in different IT Areas. I have experience in IT Support, Service Desk Management and Software Development. Most of my experience is with: NET C#, MSSQL, HTML, ASP.NET. Experience with MVC and MVVM using Knockout JS. I have actively participated in projects for Britsh Airways, Travelport and CityExpress, where I performed as Developer mainly, but also as Tech Lead JR and Product Manager JR.
+Hello! I'm a Software Engineer with almost 8 years of experience in different IT Areas. I have 4 years of experience on IT Support and Service Desk Management. I (finally!) moved to Software Development in 2018 and it is what moves me today. Most of my experience is with: NET C#, MSSQL, HTML, ASP.NET. Experience with MVC and MVVM using Knockout JS. I have actively participated in projects for Britsh Airways, Travelport and CityExpress; where I performed as Fullstack Dev mainly, but also as Tech Lead JR and Product Manager JR.
 
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [my web](http://charliegomez.dev/)
